@@ -114,4 +114,4 @@ A aplicação utiliza o **Pino** para rastreamento de requisições HTTP, alerta
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Erik** — [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+Desenvolvido por **Erikson** — [GitHub](https://github.com/eriksoncampos/gestao-financeira.git)
